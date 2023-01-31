@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Akaraliunas_AnimeEAV::Anime" title="Anime" module="Akaraliunas_AnimeEAV" sortOrder="50" parent="Magento_Backend::content" action="Akaraliunas_animeeav/anime" resource="Akaraliunas_AnimeEAV::anime"/>
+    </menu>
+</config>
